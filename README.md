@@ -7,3 +7,6 @@ The font family consists of the following: STIX Sans, STIX Mono, STIX Script, ST
 These fonts were designed using mathematical alphanumerical symbols (sans, mono, script, fraktur and double struck). Alongside that, the remainder of punctuation and symbols (specifically sans, mono, and double struck) were based on them.
 
 The positive aspect of the font family is that Greek and Cyrillic are supported by STIX Sans and STIX Alternate.
+
+
+Licensed under SIL Open Font License. https://openfontlicense.org/
